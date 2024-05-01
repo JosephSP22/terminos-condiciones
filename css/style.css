@@ -170,6 +170,9 @@ ul li.price {
   ul {
     margin: 1rem;
   }
+   ul li{
+    text-align: center;
+  }
   h1 {
     font-size: 1.2rem;
   }
@@ -199,6 +202,9 @@ ul li.price {
   ul {
     margin: 20px;
   }
+   ul li{
+    text-align: center;
+  }
   .cards {
     display: flex;
     flex-direction: column;
@@ -213,6 +219,9 @@ ul li.price {
 }
 
 @media (min-width: 320px) and (max-width: 414px) {
+   ul li{
+    text-align: center;
+  }
   .cards {
     display: flex;
     flex-direction: column;
@@ -271,6 +280,10 @@ img{
 img{
   width: 150px;
   height: auto;
+}
+
+.ter{
+  margin-bottom: 40px;
 }
 
 h6 {
