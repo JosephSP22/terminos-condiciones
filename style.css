@@ -54,6 +54,21 @@ p {
     line-height: 1.5;
     margin-bottom: 20px;
 }
+
+.titulo{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.para{
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
+}
+
+p::first-line{
+    font-weight: bold;
+}
 button {
     background-color: #e22b63;
     color: #fff;
@@ -82,4 +97,8 @@ button:hover {
 }
 .containe p{
     text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #e94355;
 }
