@@ -99,6 +99,8 @@ button:hover {
     text-align: center;
 }
 a{
+    font-style: italic;
+    font-weight: bold;
     text-decoration: none;
     color: #e94355;
 }
