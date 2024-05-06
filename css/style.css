@@ -123,6 +123,12 @@ ul li.price {
   color: hsl(0, 0%, 100%);
   padding-bottom: 2rem;
 }
+ul li.price small {
+  margin-left: 0.3rem;
+  margin-top: 0.9rem;
+  font-size: 1.2rem;
+
+}
 .shadow {
   box-shadow: -5px 5px 15px 1px rgba(0, 0, 0, 0.1);
 }
